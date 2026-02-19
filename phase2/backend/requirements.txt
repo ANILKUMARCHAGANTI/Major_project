@@ -1,0 +1,13 @@
+# Phase 2 Athlete Readiness Backend
+# Python 3.13 compatible - use versions with pre-built wheels (no Rust required)
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+PyJWT>=2.8.0
+passlib>=1.7.4
+python-multipart>=0.0.6
+sqlalchemy>=2.0.25
+aiosqlite>=0.19.0
+asyncpg>=0.29.0
+pydantic>=2.8.0
+pydantic-settings>=2.6.0
+email-validator>=2.1.0
