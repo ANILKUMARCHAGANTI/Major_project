@@ -296,13 +296,5 @@ A: Mostly. Auth is minimal (JWT scaffold ready). Add hardened auth before produc
 
 ---
 
-## License & Attribution
-
-**MIT License** — Built by 3 CS students as an academic learning project.
-
-*"From vague pattern discovery to clear athlete support: a journey in problem framing, explainability, and production engineering."*
-
----
-
 **Questions?** Check the phase-specific README files or contact the team.  
 **Ready to demo?** Start with `cd phase2` and follow the quick start above. 🚀
