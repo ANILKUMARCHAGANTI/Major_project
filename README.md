@@ -194,20 +194,6 @@ All formulas are transparent and auditable:
 **Database:** SQLite (dev) / PostgreSQL (prod)  
 **No Docker** ✓
 
----
-
-## Team Work Distribution (Phase-2)
-
-Since this is a 3-person group project:
-
-| Member | Role | Phase-2 Deliverable |
-|--------|------|---------------------|
-| **Member A** | Compute & Explainability | `compute.py`, `explainability.py`, unit tests |
-| **Member B** | Backend API & Integration | `main.py`, `models.py`, `alerts.py`, database setup |
-| **Member C** | Frontend UI & Demo | React pages, charts, Swagger demo, README |
-
----
-
 ## How to Present (Code Review Tips)
 
 **Narrative to your teacher:**
@@ -287,17 +273,6 @@ A: Absolutely. Add wearable integration, personalized thresholds, or ML layers�
 
 **Q: Is Phase-2 production-ready?**  
 A: Mostly. Auth is minimal (JWT scaffold ready). Add hardened auth before production.
-
----
-
-## Project Timeline (Typical)
-
-| Week | Phase-1 | Phase-2 |
-|------|---------|---------|
-| 1 | ✅ Complete | Backend scaffold + compute engine |
-| 2 | — | Frontend UI + API wiring |
-| 3 | — | Tests, sample data, explainability docs |
-| 4 | — | Polish, viva materials, demo prep |
 
 ---
 
